@@ -31,5 +31,5 @@ Ordered
 Format: ![이미지 alt명](url 링크) 
 
 
-<a href="#"><img src="https://github.com/snowcat91/test456/louis13.jpg" width="400px" alt="sample image"></a> 
+<a href="#"><img src="https://github.com/snowcat91/test456/post-bg.jpg" width="400px" alt="sample image"></a> 
 Format: img 태그 사용 - 이미지경로는 상대경로 or 절대경로
