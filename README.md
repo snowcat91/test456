@@ -25,3 +25,11 @@ Ordered
 1. Item 3 
     1. Item 3a 
     1. Item 3b
+
+
+![Github logo](/images/louis13.jpg) 
+Format: ![이미지 alt명](url 링크) 
+
+
+<a href="#"><img src="https://github.com/snowcat91/test456/images/louis13.jpg" width="400px" alt="sample image"></a> 
+Format: img 태그 사용 - 이미지경로는 상대경로 or 절대경로
