@@ -27,7 +27,7 @@ Ordered
     1. Item 3b
 
 
-![Github logo](/louis13.jpg) 
+![Github logo](louis13.jpg) 
 Format: ![이미지 alt명](url 링크) 
 
 
