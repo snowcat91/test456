@@ -99,7 +99,7 @@ _＼_Tom＼__
 
 이모지(EMOJI) - 아이콘
 
-GitHub supports emoji! 
+GitHub supports emoji!   
 :+1: :sparkles: :camel: :tada: 
 :rocket: :metal: :octocat:
 
